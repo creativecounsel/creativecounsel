@@ -10,7 +10,7 @@ I like to think about simple infrastructure for tech attorneys like me: Claude S
 
 **Why**
 
-💡Lawyers do their best work on substance. This is the 🏗️🧱 infrastructure to handle the rest. 
+💡Lawyers do their best work on substance. This is 🏗️🧱 infrastructure to handle the rest. 
 
 **Disclaimer⚖️**
-Nothing here reflects a specific employer or matter, & eveything is abstracted✨
+Nothing here reflects a specific employer or matter, & everything is abstracted✨
