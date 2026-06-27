@@ -4,7 +4,7 @@ I like to think about simple infrastructure for tech attorneys like me: Claude S
 
 **What's here**
 
-- 🤖Claude Skills for plain-language translation, regulatory tracking, and intake triage
+- 🤖Claude Skills for plain-language translation, regulatory tracking, and daily planning
 - 🏃Runbook frameworks for review tiers, comment labels, and intake tests
 - 🚨Regulatory trackers that stay current as things change
 
