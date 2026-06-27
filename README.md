@@ -1,6 +1,5 @@
 ## Hey you're here 🙌
 
-<!--
 I like to think about simple infrastructure for tech attorneys like me: Claude Skills, review runbooks, regulatory trackers, and more
 
 **What's here**
@@ -15,4 +14,3 @@ I like to think about simple infrastructure for tech attorneys like me: Claude S
 
 **Disclaimer⚖️**
 Nothing here reflects a specific employer or matter, & eveything is abstracted✨
--->
